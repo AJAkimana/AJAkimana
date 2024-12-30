@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Ensures write permissions
 
       - name: Update WakaTime Stats in README
         uses: athul/waka-readme@master
