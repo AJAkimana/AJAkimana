@@ -47,7 +47,8 @@ I've contributed to several open-source projects, including:
 
 ## 📈 My Coding Stats
 
-![WakaTime Badge](https://wakatime.com/badge/user/<your-wakatime-user-id>.svg)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
