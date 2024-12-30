@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Jean! 👋
 
-<!--
-**AJAkimana/AJAkimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Software Engineer and Team Lead with over 8 years of experience in building scalable and high-performance applications. My expertise spans full-stack development, quality assurance, and open-source contributions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- **Profession**: Software Engineer | Team Lead
+- **Education**: Bachelor's degree in Computer Science
+- **Skills**: Vue.js, Nuxt.js, Flutter, Node.js, TypeScript, PostgreSQL, Docker, and more.
+- **Interests**: Open-source contributions, mobile app development, and performance optimization.
+- 💬 Ask me about software development, open-source contributions, or performance optimization.
+- 📫 How to reach me: Email: [akimanaja17@gmail.com](mailto:akimanaja17@gmail.com), [AJAkimana](https://github.com/AJAkimana) on GitHub, [GitLab](https://gitlab.com/AJAkimana) on GitLab, or via LinkedIn and Twitter (links below)
+- 😄 Pronouns: Djin
+- ⚡ Fun fact: I learned Flutter in just 2 months and successfully deployed a mobile app!
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, Python, Dart, PHP
+- **Frameworks/Libraries**: Vue.js, Nuxt.js, React.js, Flutter, Express.js, Django
+- **Databases**: PostgreSQL
+- **Tools**: Docker, Yarn, Mocha, TypeORM
+- **Cloud**: AWS Lambda, VPS
+
+---
+
+## 🌟 Open Source Contributions
+
+I've contributed to several open-source projects, including:
+
+- [**Sourcegraph**](https://github.com/sourcegraph): Implemented and optimized features for enhanced developer productivity.
+- [**Strapi**](https://github.com/strapi): Worked on feature development and bug fixes.
+- [**Supabase**](https://github.com/supabase): Contributed to database integrations and performance improvements.
+
+---
+
+## 🏆 Achievements
+
+- Successfully learned Flutter within 2 months and deployed a mobile application.
+- Developed solutions for HR software services like Payroll, Timesheets, Leave, and Performance modules at [Huza HR Limited]([https://github.com/huza-hr](https://gitlab.com/pesachoice-apps/midas-appraisal).
+- Resolved critical issues like PostgreSQL database recovery using Docker and streamlined backup processes with `django-dbbackup` and Dropbox.
+
+---
+
+## 📈 My Coding Stats
+
+![WakaTime Badge](https://wakatime.com/badge/user/<your-wakatime-user-id>.svg)
+
+---
+
+## 📫 Let's Connect
+
+- **GitHub**: [AJAkimana](https://github.com/AJAkimana)
+- **GitLab**: [AJAkimana](https://gitlab.com/AJAkimana)
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jean-d-amour-akimanizanye-8553a167)
+- **X Space(former Twitter)**: [@AJAkimana](https://x.com/AJAkimana)
+
+---
+
+Thank you for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together!
