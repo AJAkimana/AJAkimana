@@ -40,7 +40,7 @@ I've contributed to several open-source projects, including:
 ## 🏆 Achievements
 
 - Successfully learned Flutter within 2 months and deployed a mobile application.
-- Developed solutions for HR software services like Payroll, Timesheets, Leave, and Performance modules at [Huza HR Limited]([https://github.com/huza-hr](https://gitlab.com/pesachoice-apps/midas-appraisal).
+- Developed solutions for HR software services like Payroll, Timesheets, Leave, and Performance modules at [Huza HR Limited](https://gitlab.com/pesachoice-apps).
 - Resolved critical issues like PostgreSQL database recovery using Docker and streamlined backup processes with `django-dbbackup` and Dropbox.
 
 ---
