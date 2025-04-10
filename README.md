@@ -65,8 +65,7 @@ Bash          24 mins         ▒░░░░░░░░░░░░░░░�
 
 - **GitHub**: [AJAkimana](https://github.com/AJAkimana)
 - **GitLab**: [AJAkimana](https://gitlab.com/AJAkimana)
-- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/jean-d-amour-akimanizanye-8553a167)
-- **X Space(former Twitter)**: [@AJAkimana](https://x.com/AJAkimana)
+- **LinkedIn**: [ajakimana](https://www.linkedin.com/in/ajakimana)
 
 ---
 
