@@ -50,11 +50,11 @@ I've contributed to several open-source projects, including:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 5 hrs 2 mins    ██████████▒░░░░░░░░░░░░░░   41.62 %
-JavaScript                 4 hrs 44 mins   █████████▓░░░░░░░░░░░░░░░   39.05 %
-Dart                       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-JSON                       52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Python                     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+TypeScript                 5 hrs 2 mins    ██████████▓░░░░░░░░░░░░░░   42.61 %
+JavaScript                 4 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   39.98 %
+Dart                       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+JSON                       52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+TSConfig                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
